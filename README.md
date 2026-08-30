@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋! I'm Joy Walukaya and I'm a Full Stack Developer</h2>
+<h2 align="left">Hi👋! I'm Joy Walukaya and I'm a Software developer</h2>
 
 ###
 
