@@ -46,7 +46,7 @@
 
 A grouped look at my projects by area. Each links to the repository.
 
-### 💻 Software Development
+ 💻 Software Development
 - [Project Name](https://github.com/JoyWalukaya/REPO-NAME) — one line on what it does
 - [Project Name](https://github.com/JoyWalukaya/REPO-NAME) — one line on what it does
 
