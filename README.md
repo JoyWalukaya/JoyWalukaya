@@ -42,7 +42,7 @@
   </a>
 </div>
 
-## 🗂️ View My Work
+ 🗂️ View My Work
 
 A grouped look at my projects by area. Each links to the repository.
 
@@ -50,14 +50,12 @@ A grouped look at my projects by area. Each links to the repository.
 - [Project Name](https://github.com/JoyWalukaya/REPO-NAME) — one line on what it does
 - [Project Name](https://github.com/JoyWalukaya/REPO-NAME) — one line on what it does
 
-### 🤖 Machine Learning & AI
+ 🤖 Machine Learning & AI
 - [Project Name](https://github.com/JoyWalukaya/REPO-NAME) — one line on what it does
 - [Project Name](https://github.com/JoyWalukaya/REPO-NAME) — one line on what it does
-
-### 🌐 Web Development
 - [Project Name](https://github.com/JoyWalukaya/REPO-NAME) — one line on what it does
 
-### ✍️ Technical Writing
+ ✍️ Technical Writing
 - [Doc or Guide](https://github.com/JoyWalukaya/REPO-NAME) — what it documents
 - [Doc or Guide](https://github.com/JoyWalukaya/REPO-NAME) — one line on what it does
 
