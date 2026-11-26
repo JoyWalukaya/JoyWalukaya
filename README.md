@@ -55,9 +55,8 @@ A grouped look at my projects by area. Each links to the repository.
 - [Project Name](https://github.com/JoyWalukaya/REPO-NAME) — one line on what it does
 - [Project Name](https://github.com/JoyWalukaya/REPO-NAME) — one line on what it does
 
- ✍️ Technical Writing
-- [Doc or Guide](https://github.com/JoyWalukaya/REPO-NAME) — what it documents
-- [Doc or Guide](https://github.com/JoyWalukaya/REPO-NAME) — one line on what it does
+### ✍️ Technical Writing
+- [Technical Writing Portfolio](https://github.com/JoyWalukaya/TechnicalWritingPortfolio): guides, tutorials and API documentation
 
 ---
 
