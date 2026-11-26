@@ -55,16 +55,19 @@
 
 <p align="left"><b>💻 &nbsp; Software Development</b></p>
 
-- [Project Name](https://github.com/JoyWalukaya/REPO-NAME): one line on what it does
-- [Project Name](https://github.com/JoyWalukaya/REPO-NAME): one line on what it does
+- [Achie Sells Cars](https://github.com/JoyWalukaya/achie-sells-cars): a web app for listing cars for sell
+- [Leave Management System](https://github.com/JoyWalukaya/-Leave-management-system): a system for managing staff leave applications and records
+- [OkayBites (Demo)](https://github.com/JoyWalukaya/okaybitesdemo): a demo version of the OkayBites food app
+- [OkayBites (MERN)](https://github.com/JoyWalukaya/okaybitesMERN): the full stack MERN build of the OkayBites food app
+- [Portfolio Website](https://github.com/JoyWalukaya/joywalukayaportfolio): my personal portfolio website
+- [My Poster Gallery](https://github.com/JoyWalukaya/My-Poster-Gallery): a gallery app for displaying my posters
 
 <br />
 
 <p align="left"><b>🤖 &nbsp; Machine Learning & AI</b></p>
 
-- [Project Name](https://github.com/JoyWalukaya/REPO-NAME): one line on what it does
-- [Project Name](https://github.com/JoyWalukaya/REPO-NAME): one line on what it does
-- [Project Name](https://github.com/JoyWalukaya/REPO-NAME): one line on what it does
+- [Olympic Medal Prediction](https://github.com/JoyWalukaya/MLCountryMedalWinPrediction): a model that predicts how many medals a country will win at the Olympics from past results
+- [Molecule Solubility Prediction](https://github.com/JoyWalukaya/ML-molecule_solubility_prediction): a model that predicts how well a molecule dissolves, useful for assessing potential drug candidates
 
 <br />
 
