@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Joy Walukaya, a Software Developer</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Joy%20Walukaya&desc=Software%20Developer&fontSize=46&fontColor=ffffff&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header banner" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoyWalukaya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
@@ -7,9 +7,9 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
 
-<h3 align="left">🛠️ Tech Stack</h3>
+<p align="center"><b>🛠️ Tech Stack</b></p>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
@@ -27,9 +27,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
 </div>
 
-<h3 align="left">📫 Connect With Me</h3>
+<p align="center"><b>📫 Connect With Me</b></p>
 
-<div align="left">
+<div align="center">
   <a href="mailto:walukayajoy@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
@@ -40,22 +40,22 @@
 
 <br clear="both" />
 
-<h2 align="left">🗂️ View My Work</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=50&section=header&text=%F0%9F%97%82%EF%B8%8F%20View%20My%20Work&fontSize=26&fontColor=ffffff" width="100%" alt="view my work" />
 
-<p align="left">A grouped look at my projects by area. Each links to the repository.</p>
+<p align="center">A grouped look at my projects by area. Each links to the repository.</p>
 
-<h3 align="left">💻 Software Development</h3>
-
-- [Project Name](https://github.com/JoyWalukaya/REPO-NAME): one line on what it does
-- [Project Name](https://github.com/JoyWalukaya/REPO-NAME): one line on what it does
-
-<h3 align="left">🤖 Machine Learning & AI</h3>
+<p align="left"><b>💻 Software Development</b></p>
 
 - [Project Name](https://github.com/JoyWalukaya/REPO-NAME): one line on what it does
 - [Project Name](https://github.com/JoyWalukaya/REPO-NAME): one line on what it does
+
+<p align="left"><b>🤖 Machine Learning & AI</b></p>
+
+- [Project Name](https://github.com/JoyWalukaya/REPO-NAME): one line on what it does
+- [Project Name](https://github.com/JoyWalukaya/REPO-NAME): one line on what it does
 - [Project Name](https://github.com/JoyWalukaya/REPO-NAME): one line on what it does
 
-<h3 align="left">✍️ Technical Writing</h3>
+<p align="left"><b>✍️ Technical Writing</b></p>
 
 - [Technical Writing Portfolio](https://github.com/JoyWalukaya/TechnicalWritingPortfolio): guides, tutorials and API documentation
 
