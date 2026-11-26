@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=180&section=header&text=Joy%20Walukaya&desc=Software%20Developer&fontSize=46&fontColor=ffffff&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header banner" />
+<p align="center"><b>Hi 👋! I'm Joy Walukaya, a Software Developer</b></p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JoyWalukaya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
@@ -40,7 +40,7 @@
 
 <br clear="both" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,30&height=50&section=header&text=%F0%9F%97%82%EF%B8%8F%20View%20My%20Work&fontSize=26&fontColor=ffffff" width="100%" alt="view my work" />
+<p align="center"><b>🗂️ View My Work</b></p>
 
 <p align="center">A grouped look at my projects by area. Each links to the repository.</p>
 
