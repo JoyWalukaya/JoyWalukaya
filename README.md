@@ -7,7 +7,7 @@
 
 <br />
 
-<img align="right" height="155" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
+<img align="right" height="210" src="https://i.imgflip.com/65efzo.gif" alt="coding gif" />
 
 <p align="center"><b>🛠️ &nbsp; Tech Stack</b></p>
 
@@ -29,7 +29,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql logo" />
 </div>
 
-<br clear="both" />
 <br />
 
 <p align="center"><b>📫 &nbsp; Connect With Me</b></p>
