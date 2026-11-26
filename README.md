@@ -29,6 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="mysql logo" />
 </div>
 
+<br clear="both" />
 <br />
 
 <p align="center"><b>📫 &nbsp; Connect With Me</b></p>
